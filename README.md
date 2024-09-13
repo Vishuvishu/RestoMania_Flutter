@@ -1,4 +1,4 @@
-# FineDine
+# Resto Mania
 
 **Findine** is a Flutter-based application designed to enhance the dine-in experience by allowing customers to order food directly from their tables at participating restaurants. The app simplifies the process of ordering, making it more convenient for both customers and restaurant staff.
 
